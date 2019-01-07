@@ -992,7 +992,7 @@ Entity
 	icon="uc_chair_icon",
 	tier=2,
 	repair_materials = { "planks", "ingot_of_gold" },
-	quality=-1,
+	quality=1,
 	upkeep_type=3,
 	upkeep_quantity=1
 }
@@ -1559,7 +1559,7 @@ Entity
 	icon_skin = "ui//orderIcons.xml",
 	icon="lc_window_icon",
 	tier=1,
-	quality=0,
+	quality=1,
 	upkeep_type=-1,
 	upkeep_quantity=-1
 }
@@ -1573,7 +1573,7 @@ Entity
 	icon_skin = "ui//orderIcons.xml",
 	icon="lc_window_icon2",
 	tier=1,
-	quality=0,
+	quality=1,
 	upkeep_type=-1,
 	upkeep_quantity=-1
 }
@@ -1588,7 +1588,7 @@ Entity
 	icon_skin = "ui//orderIcons.xml",
 	icon="mc_window_icon",
 	tier=1,
-	quality=0,
+	quality=1,
 	upkeep_type=-1,
 	upkeep_quantity=-1
 }
@@ -1603,7 +1603,7 @@ Entity
 	icon_skin = "ui//orderIcons.xml",
 	icon="uc_window_icon",
 	tier=1,
-	quality=0,
+	quality=1,
 	upkeep_type=-1,
 	upkeep_quantity=-1
 }
@@ -1618,7 +1618,7 @@ Entity
 	icon_skin = "ui//orderIcons2.xml",
 	icon="window_stained_glass",
 	tier=1,
-	quality=0,
+	quality=2,
 	upkeep_type=-1,
 	upkeep_quantity=-1
 }
@@ -1633,7 +1633,7 @@ Entity
 	icon_skin = "ui//orderIcons2.xml",
 	icon="window_stained_glass",
 	tier=1,
-	quality=0,
+	quality=2,
 	upkeep_type=-1,
 	upkeep_quantity=-1
 }
@@ -1691,7 +1691,7 @@ Entity
 	icon="lc_table_icon",
 	tier=1,
 	repair_materials={"planks"},
-	quality=-1,
+	quality=1,
 	upkeep_type=1,
 	upkeep_quantity=1
 }
@@ -1708,7 +1708,7 @@ Entity
 	icon="uc_table_icon",
 	tier=2,
 	repair_materials = { "planks", "ingot_of_gold" },
-	quality=-1,
+	quality=2,
 	upkeep_type=3,
 	upkeep_quantity=1
 }
@@ -1722,7 +1722,7 @@ Entity
 	icon_skin = "ui//orderIcons2.xml",
 	icon="steam_radiator",
 	tier=2,
-	quality=1,
+	quality=2,
 	upkeep_type=-1,
 	upkeep_quantity=-1
 }
@@ -1737,7 +1737,7 @@ Entity
 	icon_skin = "ui//orderIcons.xml",
 	icon="lc_chair_icon",
 	tier=1,
-	quality=-1,
+	quality=1,
 	upkeep_type=-1,
 	upkeep_quantity=-1
 }
@@ -1752,7 +1752,7 @@ Entity
 	icon_skin = "ui//orderIcons.xml",
 	icon="mc_chair_icon",
 	tier=1,
-	quality=-1,
+	quality=1,
 	upkeep_type=1,
 	upkeep_quantity=1
 }
@@ -1768,7 +1768,7 @@ Entity
 	icon="mc_table_icon",
 	tier=2,
 	repair_materials={"planks"},
-	quality=-1,
+	quality=2,
 	upkeep_type=1,
 	upkeep_quantity=1
 }
