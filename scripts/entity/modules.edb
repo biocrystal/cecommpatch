@@ -1070,7 +1070,7 @@ Entity
 	icon_skin = "ui//orderIcons.xml",
 	icon="icon_bookshelf_uc",
 	tier=2,
-	quality=0,
+	quality=2,
 	upkeep_type=2,
 	upkeep_quantity=1,
 }
@@ -1084,7 +1084,7 @@ Entity
 	icon_skin = "ui//orderIcons.xml",
 	icon="icon_bookshelf_mc",
 	tier=2,
-	quality=0,
+	quality=1,
 	upkeep_type=1,
 	upkeep_quantity=1,
 }
