@@ -12555,7 +12555,8 @@ are already contained within other buildings. Consider those a placeholder for l
                foundationTop="textures/buildings/fieldStoneFloor00.png" />
 		
 		<addition type="module" name="Lower Class Door 00" required="1"/>
-		<!--<addition type="module" name="Cot" required="1"/>-->
+		<addition type="module" name="Cot" required="0"/>
+
 		<addition type="module" name="Musket Locker" required="1"/>
 		<addition type="module" name="Tripistol Locker" required="1"/>
 		
@@ -12568,6 +12569,9 @@ are already contained within other buildings. Consider those a placeholder for l
 		<addition type="module" name="Leyden Rifle Locker" required="1"/>
 		
 		<addition type="module" name="LC Cabinet" required="0"/>
+		<addition type="module" name="Lower Class Chair" required="0"/>
+		<addition type="module" name="Lower Class Table and Chair Set" required="0"/>
+		<addition type="module" name="Lower Class Table" required="0"/>
           <addition type="module" name="Lower Class Rug 00" required="0"/>
 		<addition type="module" name="Lower Class Window 00" required="0"/>
 		<!--<addition type="module" name="Lower Class Window 01" required="0"/>-->
